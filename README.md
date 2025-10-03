@@ -14,7 +14,7 @@ Groq API key
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/pdf-assistant.git
+git clone https://github.com/MAITREED03/pdf_assistant.git
 cd pdf-assistant
 
 Install dependencies:
@@ -63,4 +63,5 @@ MIT
 Contributing
 Fork the repository
 Create your feature branch
+
 Submit a pull request
